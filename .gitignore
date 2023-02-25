@@ -1,0 +1,6 @@
+output
+.env
+metadata.json
+*.json
+*.mp4
+.DS_Store
